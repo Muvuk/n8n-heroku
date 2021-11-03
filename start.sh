@@ -59,4 +59,5 @@ else
 fi
 
 # kickstart nodemation
+export N8N_DIAGNOSTICS_ENABLED=false
 n8n
